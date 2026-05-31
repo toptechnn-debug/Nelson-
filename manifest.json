@@ -1,0 +1,21 @@
+{
+  "name": "GAROMS-TECH",
+  "short_name": "GAROMS",
+  "description": "IA & Automatisation pour entreprises haïtiennes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#E85D04",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/toptechnn-debug/garoms-tech-assets/main/tab.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/toptechnn-debug/garoms-tech-assets/main/tab.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

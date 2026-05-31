@@ -1,0 +1,6 @@
+/sitemap     /sitemap.xml          200
+/blog        /blog.html            200
+/ambassadeur /ambassadeur.html     200
+/portail     /ambassadeur-portail.html  200
+/cgu         /cgu.html             200
+/*           /404.html             404
